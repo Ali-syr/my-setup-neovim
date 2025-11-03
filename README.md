@@ -1,1 +1,1 @@
-# my-setup-neovim
+# my setup neovim
