@@ -1,2 +1,2 @@
-before you want use text, find text this work on neovim you should download ripgrep
+before you want use find text work on neovim, you should download ripgrep
 
